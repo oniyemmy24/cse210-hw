@@ -13,7 +13,7 @@ public class Journal
         "What was the strongest emotion I felt today?",
         "If I had one thing I could do over today, what would it be?"
     };
-
+    
     public void WriteNewEntry()
     {
         Random random = new Random();
