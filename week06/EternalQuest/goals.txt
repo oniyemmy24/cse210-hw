@@ -1,0 +1,3 @@
+SimpleGoal|Run Marathon|Complete a full marathon |100|False
+EternalGoal|Read scripture|Read daily scripture|50
+ChecklistGoal|Attend Temple |Attend Temple 5 times |50|0|100|100
